@@ -1,0 +1,10 @@
+.card__img{
+    width: fit-content;
+    height: 200px;
+    max-height: 200px;
+    max-width: 250px;
+    margin: auto;
+}
+.card__product{
+    border: none;
+}
